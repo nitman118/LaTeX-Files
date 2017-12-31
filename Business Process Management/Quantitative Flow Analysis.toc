@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}Process Model}{2}{section.1}
+\contentsline {section}{\numberline {2}Product-Based Redesign}{4}{section.2}
+\contentsline {section}{\numberline {3}Redesign Heuristics}{6}{section.3}
+\contentsline {subsection}{\numberline {3.1}Heuristic 1: Parallelism \IeC {\textendash } \IeC {\textquotedblleft }Consider whether activities may be executed in parallel\IeC {\textquotedblright }}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Heuristic 2: Activity Automation \IeC {\textendash } \IeC {\textquotedblleft }Consider automating activities\IeC {\textquotedblright }}{8}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Heuristic 3: Flexible assignment \IeC {\textendash } \IeC {\textquotedblleft }Assign resources in such a way that maximal flexibility is preserved for the near future\IeC {\textquotedblright } }{8}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Heuristic 4: Extra resources \IeC {\textendash } \IeC {\textquotedblleft }If capacity is not sufficient, consider increasing the number of resources\IeC {\textquotedblright }}{9}{subsection.3.4}
+\contentsline {section}{\numberline {4}Quantitative Analysis}{10}{section.4}
+\contentsline {subsection}{\numberline {4.1}Waiting Times}{10}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Activity Cycle Time and Processing Times}{10}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Sojourn Times}{11}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Summary of Quantitative Analysis}{12}{subsection.4.4}
+\contentsline {section}{\numberline {5}Process Mining}{12}{section.5}
+\contentsline {subsection}{\numberline {5.1}Difference 1: activity \IeC {\textquoteleft }send loan offer\IeC {\textquoteright } after \IeC {\textquoteleft }confirm credibility check\IeC {\textquoteright }}{14}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Difference 2: activity \IeC {\textquoteleft }remind client\IeC {\textquoteright } after \IeC {\textquoteleft }confirm credibility check\IeC {\textquoteright }}{14}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Difference 3: the absence of the \IeC {\textquoteleft }create loan offer\IeC {\textquoteright } activity}{14}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Difference 4: the \IeC {\textquoteleft }execute initial payment\IeC {\textquoteright } activity started before the \IeC {\textquoteleft }send welcome letter\IeC {\textquoteright } activity has been performed}{14}{subsection.5.4}
+\contentsline {section}{\numberline {A}Disco Variant Information}{15}{appendix.A}

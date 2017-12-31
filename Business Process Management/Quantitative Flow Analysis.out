@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Process Model}{}% 1
+\BOOKMARK [1][-]{section.2}{Product-Based Redesign}{}% 2
+\BOOKMARK [1][-]{section.3}{Redesign Heuristics}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Heuristic 1: Parallelism \205 \215Consider whether activities may be executed in parallel\216}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Heuristic 2: Activity Automation \205 \215Consider automating activities\216}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Heuristic 3: Flexible assignment \205 \215Assign resources in such a way that maximal flexibility is preserved for the near future\216 }{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Heuristic 4: Extra resources \205 \215If capacity is not sufficient, consider increasing the number of resources\216}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Quantitative Analysis}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Waiting Times}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Activity Cycle Time and Processing Times}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.3}{Sojourn Times}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.4}{Summary of Quantitative Analysis}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Process Mining}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Difference 1: activity \217send loan offer\220 after \217confirm credibility check\220}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Difference 2: activity \217remind client\220 after \217confirm credibility check\220}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.3}{Difference 3: the absence of the \217create loan offer\220 activity}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.4}{Difference 4: the \217execute initial payment\220 activity started before the \217send welcome letter\220 activity has been performed}{section.5}% 17
+\BOOKMARK [1][-]{appendix.A}{Disco Variant Information}{}% 18
